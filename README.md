@@ -27,6 +27,11 @@ Repositories
   * [living-architecture](https://github.com/demos-ra/living-architecture): code generation from small MTSV grids, for Next.js, TypeScript, React, Prisma, CSS and JSON
   * [void-os](https://github.com/demos-ra/void-os): the personal operating system for AI agents: memory, tools and hooks in one relational data bank of plain text
 
+Linux Kernel
+------------
+
+* [457dc9fefe9a ("netlink: specs: Add a spec for nexthops in rtnetlink")](https://git.kernel.org/netdev/net-next/c/457dc9fefe9a): a YNL spec for nexthop objects and nexthop buckets in rtnetlink, applied to net-next by Jakub Kicinski in October 2026; [the patch on the netdev mailing list](https://lore.kernel.org/20261019-rt-nexthop-spec-v1-1-9c586edf86ab@gmail.com)
+
 Get Started
 -----------
 
