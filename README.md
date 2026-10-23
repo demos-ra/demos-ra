@@ -3,10 +3,11 @@ Demos Ra
 
 I build plain-text data tools for AI agents and the people who work with
 them. Every one rests on Multi-Sheet Tab-Separated Values (MTSV), a file
-format registered as an IETF Internet-Draft: TSV with one more dimension,
+format specified in an IETF Internet-Draft: TSV with one more dimension,
 where a tab separates fields, a line break separates records, and a form
 feed separates sheets. A whole Excel (XLSX) workbook becomes one text file
-that any AI agent, editor or script can read.
+that any AI agent, editor or script can read. Its media type,
+text/prs.mtsv, is registered with IANA.
 
 Why It Is Useful
 ----------------
