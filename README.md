@@ -33,6 +33,11 @@ Linux Kernel
 
 * [457dc9fefe9a ("netlink: specs: Add a spec for nexthops in rtnetlink")](https://git.kernel.org/netdev/net-next/c/457dc9fefe9a): a YNL spec for nexthop objects and nexthop buckets in rtnetlink, applied to net-next by Jakub Kicinski in October 2026; [the patch on the netdev mailing list](https://lore.kernel.org/20261019-rt-nexthop-spec-v1-1-9c586edf86ab@gmail.com)
 
+OpenClaw
+--------
+
+* [openclaw/openclaw@c00352f](https://github.com/openclaw/openclaw/commit/c00352f56c4982d2adf9f641d6abbadf3fa12daf): keeps the AppImage's bundled libraries out of the host programs the Linux companion starts, so an SSH ProxyCommand that loads the system OpenSSL no longer aborts; co-authored with Peter Steinberger, who merged it into main in October 2026; [the pull request on GitHub](https://github.com/openclaw/openclaw/pull/183661)
+
 Get Started
 -----------
 
